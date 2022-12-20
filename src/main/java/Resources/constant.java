@@ -20,5 +20,5 @@ public class constant {
 
 	public static String country = "Bangladesh";
 
-	public static String ExpectedErrorText = "Please check your username and password. If you still can't log in, contact your Salesforce administrator.";
+	public static String ExpectedErrorText = "Please check your password. If you still can't log in, contact your Salesforce administrator.";
 }
